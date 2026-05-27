@@ -1,0 +1,6 @@
+path: /content/AVCS_DATASET_NEW/avcs_dataset
+train: train/images
+val:   valid/images
+test:  test/images
+nc: 2
+names: ['with_vehicle', 'without_vehicle']
